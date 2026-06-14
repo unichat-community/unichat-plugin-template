@@ -1,0 +1,8 @@
+name: plugin-template
+description: A template plugin for UniChat.
+version: 1.0.0-alpha.0
+author: Voguh <voguhofc@protonmail.com>
+license: MIT
+homepage: https://github.com/unichat-community/unichat-plugin-template
+dependencies:
+  - unichat@[1.4.0,)
